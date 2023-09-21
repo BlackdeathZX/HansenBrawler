@@ -463,7 +463,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &1647283952673760137
+--- !u!1001 &2022610811
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -473,15 +473,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2425841990828507011, guid: 890bf1cdbf746b849a02a34a1ecc2f4e, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2.9655972
+      value: -2.7657583
       objectReference: {fileID: 0}
     - target: {fileID: 2425841990828507011, guid: 890bf1cdbf746b849a02a34a1ecc2f4e, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1
+      value: -1.079999
       objectReference: {fileID: 0}
     - target: {fileID: 2425841990828507011, guid: 890bf1cdbf746b849a02a34a1ecc2f4e, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 10.215393
+      value: 13.150391
       objectReference: {fileID: 0}
     - target: {fileID: 2425841990828507011, guid: 890bf1cdbf746b849a02a34a1ecc2f4e, type: 3}
       propertyPath: m_LocalRotation.w
@@ -513,7 +513,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3089894703882003769, guid: 890bf1cdbf746b849a02a34a1ecc2f4e, type: 3}
       propertyPath: m_Name
-      value: Ch47_nonPBR
+      value: Jennnifer
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -528,4 +528,4 @@ SceneRoots:
   - {fileID: 705507995}
   - {fileID: 1577184421}
   - {fileID: 905900182}
-  - {fileID: 1647283952673760137}
+  - {fileID: 2022610811}
